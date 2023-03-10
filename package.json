@@ -37,6 +37,7 @@
     ]
   },
   "devDependencies": {
+    "@commitizen/cz-conventional-changelog": "^1.2.0",
     "commitizen": "^4.3.0"
   }
 }
